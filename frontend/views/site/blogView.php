@@ -68,7 +68,7 @@ define('PAGE_NAME', 'blog');
                        <hr class="my-2">
             <div class=""> <?= $blog->description; ?></div>
             <hr class="my-2">
-           <? if($blog->keyword) {
+           <?php if($blog->keyword) {
             $keywords = explode(",", $blog->keyword);
             foreach ($keywords as $keyword) {
             echo "<span title='Keyword' class='badge badge-info' style='font-size:11pt; font-weight:normal;background-color:#0085BA;'> <b>" . ltrim(rtrim($keyword)) . " </b></span> ";
