@@ -70,8 +70,7 @@ $brands = DC::get_menu_brands();
         <div class="product-detail mt-4 mb-lg-4 mb-3 viewpoint-animate d03s" data-animation="fadeIn">
           <?php 
             echo '<p>'.Yii::t('common', 'content_about_1').'</p>';
-            echo '<p>'.Yii::t('common', 'content_about_2').'</p>';
-            echo 'ทดสอบ 2222222';
+            echo '<p>'.Yii::t('common', 'content_about_2').'</p>';         
           ?>
         </div>
         <!--<a href="product-detail.php" class="btn btn-primary"></a> -->
