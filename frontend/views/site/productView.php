@@ -110,7 +110,7 @@ $table_photo = $photo->photo_url;
             <div class="col-lg-10">
                 <br>
                 <a href="<?php echo Yii::$app->request->BaseUrl.'/site/enquiry?product_id='.$_GET['id']; ?>" class="btn btn-info">SEND AN ENQUIRY</a>
-                <?//= Html::button('SEND AN ENQUIRY', ['value' => Url::to('/site/enquiry?product_id=' . $_GET['id']), 'class' => 'btn btn-primary', 'id' => 'modalButton']); ?>
+               
             </div>
             <div class="col-12 mb-2 fadeIn animated d03s">
                 <br>
@@ -128,12 +128,9 @@ $table_photo = $photo->photo_url;
                 } ?>
             </div>
         </div>
-        <?php // Modal::begin(['header' => '<h3>SEND AN ENQUIRY</h3>', 'id' => 'modal', 'size' => 'modal-lg']);
-        ?>
+       
      <!--   <div class="row" id="modalContent"></div> -->
-        <?php
-       // Modal::end();
-        ?>
+       
     </div>
 
 </div>
