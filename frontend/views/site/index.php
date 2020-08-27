@@ -71,7 +71,7 @@ $brands = DC::get_menu_brands();
           <?php 
             echo '<p>'.Yii::t('common', 'content_about_1').'</p>';
             echo '<p>'.Yii::t('common', 'content_about_2').'</p>';
-            echo 'ทดสอบ';
+            echo 'ทดสอบ 2222222';
           ?>
         </div>
         <!--<a href="product-detail.php" class="btn btn-primary"></a> -->
