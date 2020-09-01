@@ -22,11 +22,11 @@ echo '</div>';
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-md-1 order-2 text-lg-left text-center my-2">
-        <img src="../images/logo.jpg" height="67px;" alt="safebox siam">
+        <img src="../images/logo.jpg" height="67px;" alt="bokwear store">
       </div>
       <div class="col-md-6 order-md-2 order-1 text-lg-right text-center my-2">
         <div class="social">
-          <a href="https://web.facebook.com/SAFEBOXSIAMTH/?__tn__=%2Cd%2CP-R&eid=ARB8Yfn6Ewu4t0Lkr8QlRdZS79AzV4BpTF376uWgcgwOMOU2Y78QZWUkQm0Ksb5KSmoBcOG7iaEtqJ3b" class="fa-stack mx-1" style="vertical-align: top;">
+          <a href="https://web.facebook.com/bokwearstoreTH/?__tn__=%2Cd%2CP-R&eid=ARB8Yfn6Ewu4t0Lkr8QlRdZS79AzV4BpTF376uWgcgwOMOU2Y78QZWUkQm0Ksb5KSmoBcOG7iaEtqJ3b" class="fa-stack mx-1" style="vertical-align: top;">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-facebook-f fa-stack-1x fa-inverse"></i>
           </a>
@@ -84,7 +84,7 @@ echo '</div>';
         </div>
         <div class="d-flex my-1">
           <img src="../images/icons/email-outline.svg" height="24px" class="mr-1">
-          <div>safeboxsiam@gmail.com</div>
+          <div>bokwear@gmail.com</div>
         </div>
       </div>
       <div class="col-12">

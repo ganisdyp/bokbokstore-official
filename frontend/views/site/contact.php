@@ -40,7 +40,7 @@ define('PAGE_NAME', 'contact');
       <img src="../images/icons/email-outline-dark.svg" height="90px" class="mb-3">
       <p class="bold bigger-120"><?php echo Yii::t('common', 'contact_header'); ?></p>
       <div>
-        <div><?php echo Yii::t('common', 'email'); ?> : safeboxsiam@gmail.com</div>
+        <div><?php echo Yii::t('common', 'email'); ?> : bokwear@gmail.com</div>
         <div><?php echo Yii::t('common', 'phone'); ?> : 062-886-8999</div>
       </div>
     </div>

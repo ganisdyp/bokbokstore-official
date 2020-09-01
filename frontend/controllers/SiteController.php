@@ -145,7 +145,7 @@ class SiteController extends Controller
 
         if ($model->load(Yii::$app->request->post()) && $model->validate()) {
 
-            if ($model->sendEmail('safeboxsiam@gmail.com') && $model->sendEmail('info@safeboxasia.com')) {
+            if ($model->sendEmail('bokwear@gmail.com') && $model->sendEmail('bokwear@bokbokstore.com')) {
                 Yii::$app->session->setFlash('successContact');
                 return $this->refresh();
             } else {
@@ -164,7 +164,7 @@ class SiteController extends Controller
         $model = new EnquiryForm();
 
         if ($model->load(Yii::$app->request->post()) && $model->validate()) {
-            if ($model->sendEmail('safeboxsiam@gmail.com') && $model->sendEmail('info@safeboxasia.com')) {
+            if ($model->sendEmail('bokwear@gmail.com') && $model->sendEmail('bokwear@bokbokstore.com')) {
          //   if ($model->sendEmail('ganis.dyp@gmail.com')) {
                 Yii::$app->session->setFlash('successEnquiry');
                 return $this->redirect('product-view?id='.$model->product_id);

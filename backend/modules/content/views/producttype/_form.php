@@ -32,7 +32,7 @@ use kartik\file\FileInput;
                     'options' => ['accept' => 'image/*'], 'pluginOptions' => [
                         'showUpload' => false,
                         'initialPreview' => [
-                            ["http://www.safeboxasia.com/backend/uploads/product_type/$model->main_photo"]
+                            ["http://www.bokbokstore.com/backend/uploads/product_type/$model->main_photo"]
                         ],
                         'initialPreviewAsData' => true,
                         'initialCaption' => "$model->main_photo",
