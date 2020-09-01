@@ -30,7 +30,7 @@ $brands = DC::get_menu_brands();
         <div class="carousel-item active">
           <img class="d-block w-100" src="../images/home/banner-bokwear-01.png">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img class="d-block w-100" src="../images/home/banner-bokwear-02.png">
         </div>
    
