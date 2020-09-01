@@ -24,16 +24,16 @@ $brands = DC::get_menu_brands();
       <ol class="carousel-indicators">
         <li data-target="#carouselHero" data-slide-to="0" class="active"></li>
         <li data-target="#carouselHero" data-slide-to="1"></li>
-        <li data-target="#carouselHero" data-slide-to="2"></li>
-          <li data-target="#carouselHero" data-slide-to="3"></li>
-          <li data-target="#carouselHero" data-slide-to="4"></li>
-          <li data-target="#carouselHero" data-slide-to="5"></li>
+        
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100" src="../images/home/banner-bokwear-01.png">
         </div>
-       
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="../images/home/banner-bokwear-02.png">
+        </div>
+   
       </div>
       <a class="carousel-control-prev" href="#carouselHero" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
