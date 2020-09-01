@@ -22,7 +22,7 @@ echo '</div>';
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-md-1 order-2 text-lg-left text-center my-2">
-        <img src="../images/logo.png" height="67px;" alt="safebox siam">
+        <img src="../images/logo.jpg" height="67px;" alt="safebox siam">
       </div>
       <div class="col-md-6 order-md-2 order-1 text-lg-right text-center my-2">
         <div class="social">
