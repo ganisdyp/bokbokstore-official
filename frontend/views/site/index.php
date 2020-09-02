@@ -45,24 +45,6 @@ $brands = DC::get_menu_brands();
       </a>
     </div>
   </div>
-  <div class="container mt-5">
-    <div class="row">
-      <div class="col-lg-4 text-lg-right text-center">
-        <img src="../images/about/about.jpg" class="img-fluid" alt="safebox thailand">
-      </div>
-      <div class="col-lg-8 mt-lg-0 mt-4">
-        <span class="product-tag bg-blue-light viewpoint-animate d03s" data-animation="fadeInDown"><?php echo Yii::t('common', 'tag_highq'); ?></span>
-       <!-- <h2 class="page-title my-3 viewpoint-animate d03s" data-animation="fadeInDown"></h2> -->
-        <div class="product-detail mt-4 mb-lg-4 mb-3 viewpoint-animate d03s" data-animation="fadeIn">
-          <?php 
-            echo '<p>'.Yii::t('common', 'content_about_1').'</p>';
-            echo '<p>'.Yii::t('common', 'content_about_2').'</p>';         
-          ?>
-        </div>
-        <!--<a href="product-detail.php" class="btn btn-primary"></a> -->
-      </div>
-    </div>
-  </div>
 </div>
     <div class="bg-blue-dark">
 <div class="container">
